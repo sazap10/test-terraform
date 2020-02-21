@@ -1,0 +1,8 @@
+version: 3
+projects:
+- name: gcp
+  dir: folder1
+- name: aws
+  dir: folder2
+- name: monitoring
+  dir: folder3
